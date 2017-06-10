@@ -4,7 +4,7 @@
 
 Feedback is always welcome.
 
-## Installing
+## Install
 `git clone https://github.com/digitsensitive/phaser-ts-webpack-boilerplate.git`
 
 ## Building
