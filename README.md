@@ -4,13 +4,13 @@
 
 Feedback is always welcome.
 
-## INSTALL
+## Install
 
 Navigate to the folder and clone this repository.
 
 `git clone https://github.com/digitsensitive/phaser-ts-webpack-boilerplate.git`
 
-## BUILD
+## Build
 
 Building is as easy as the three following steps.
 
@@ -18,7 +18,7 @@ Building is as easy as the three following steps.
 2. `npm install` to install node_modules
 3. `webpack` to build `bundle.js`
 
-## RUN
+## Run
 
 Running with one simple command.
 
