@@ -27,5 +27,9 @@
   },
   "dependencies": {
     "phaser": "^2.6.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitsensitive/phaser-ts-webpack-boilerplate.git"
   }
 }
