@@ -1,14 +1,14 @@
 {
   "name": "phaser-ts-webpack-boilerplate",
   "version": "1.0.1",
-  "description": "A boilerplate for using Phaser in TypeScript with Webpack",
+  "description": "A boilerplate for using Phaser in TypeScript with Webpack. ",
   "keywords": [
     "Phaser",
     "TypeScript",
     "Webpack"
   ],
   "bugs": {
-    "email" : "project@hostname.com"
+    "email" : "digit.sensitivee@gmail.com"
   },
   "license": "MIT",
   "author": {
