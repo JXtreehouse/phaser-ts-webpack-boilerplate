@@ -2,7 +2,7 @@
 
 [Phaser](https://github.com/photonstorm/phaser) is a fast, free, and fun open source HTML5 game framework. This is a boilerplate for people coding Games in TypeScript for Phaser with Webpack.
 
-Feedback is always welcome.
+Feedback is always welcome!
 
 <center>
 ![Phaser](/assets/github/phaser.png)
