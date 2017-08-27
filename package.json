@@ -1,19 +1,20 @@
 {
   "name": "phaser-ts-webpack-boilerplate",
-  "version": "1.0.1",
-  "description": "A boilerplate for using Phaser in TypeScript with Webpack. ",
+  "version": "1.0.2",
+  "description": "A boilerplate for using Phaser CE in TypeScript with Webpack. ",
   "keywords": [
     "Phaser",
+    "Phaser CE",
     "TypeScript",
     "Webpack"
   ],
   "bugs": {
-    "email" : "digit.sensitivee@gmail.com"
+    "email": "digit.sensitivee@gmail.com"
   },
   "license": "MIT",
   "author": {
-    "name" : "Eric Kuhn",
-    "email" : "digit.sensitivee@gmail.com"
+    "name": "digitsensitive",
+    "email": "digit.sensitivee@gmail.com"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +27,7 @@
     "webpack-dev-server": "^2.4.5"
   },
   "dependencies": {
-    "phaser": "^2.6.2"
+    "phaser-ce": "^2.8.3"
   },
   "repository": {
     "type": "git",

@@ -4,6 +4,12 @@
 
 Feedback is always welcome.
 
+<center>
+![Phaser](/assets/github/phaser.png)
+![Phaser](/assets/github/webpack.png)
+![Phaser](/assets/github/ts.png)
+</center>
+
 ## Install
 
 Navigate to the folder and clone this repository.
@@ -23,3 +29,18 @@ Building is as easy as the three following steps.
 Running with one simple command.
 
 `webpack-dev-server` to start server
+
+Open `localhost:8080` in your browser.
+
+## Versions
+
+### 1.0.2 (27.08.2017)
+- Change from Phaser to Phaser CE (Community Edition)
+- Using @font-face in less file to import .ttf font file
+- Update README.md file
+
+### 1.0.1 (10.06.2017)
+- First commit
+
+## Licence
+MIT

@@ -1,11 +1,11 @@
 /**
-* @author       Eric Kuhn <digit.sensitivee@gmail.com>
-* @copyright    2017 Eric Kuhn
-* @license      Eric Kuhn
+* @author       Digitsensitive <digit.sensitivee@gmail.com>
+* @copyright    2017 Digitsensitive
+* @license      Digitsensitive
 */
 
 
-/// <reference path="../node_modules/phaser/typescript/phaser.d.ts"/>
+/// <reference path="../node_modules/phaser-ce/typescript/phaser.d.ts"/>
 
 
 import 'pixi';
