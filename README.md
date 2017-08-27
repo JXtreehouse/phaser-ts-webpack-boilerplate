@@ -5,9 +5,9 @@
 Feedback is always welcome.
 
 <center>
-![Phaser](/assets/github/phaser.png)
-![Phaser](/assets/github/webpack.png)
-![Phaser](/assets/github/ts.png)
+![Phaser](/phaser-ts-webpack-boilerplate/assets/github/phaser.png)
+![Webpack](/phaser-ts-webpack-boilerplate/assets/github/webpack.png)
+![Typescript](/phaser-ts-webpack-boilerplate/assets/github/ts.png)
 </center>
 
 ## Install
