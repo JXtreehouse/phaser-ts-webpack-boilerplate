@@ -4,11 +4,10 @@
 
 Feedback is always welcome!
 
-<center>
 ![Phaser](/assets/github/phaser.png)
 ![Webpack](/assets/github/webpack.png)
 ![Typescript](/assets/github/ts.png)
-</center>
+
 
 ## Install
 
